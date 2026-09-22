@@ -1,24 +1,53 @@
-SprachCoach – Speak German with AI
-Master German speaking (Sprechen) with Lena, your personal AI-powered conversation tutor. Stop just memorizing vocabulary flashcards—start having real-time, voice-to-voice interactive conversations designed to build real-world confidence.
+# SprachCoach – Speak German with AI
 
-Whether you are navigating daily life in Frankfurt, preparing for a corporate job interview, or practicing casual tandem dialogues, SprachCoach adapts completely to your rhythm.
+SprachCoach is an iOS language-learning app built around **real spoken German practice** with Lena, an AI coach. The goal is simple: spend less time only studying rules and more time actually using German in realistic situations.
 
-🚀 Key Features
-Live Voice Conversations: Experience natural, zero-latency voice interactions powered by advanced streaming AI technology.
+## What you can do
 
-Dynamic Level Adaptation: Progress seamlessly from A1 (Beginner) to C1 (Advanced). Lena automatically adjusts her speaking speed and vocabulary complexity to match your current tier.
+- **Live voice conversations** – practise speaking German in real time with an AI conversation partner.
+- **CEFR-aware practice from A1 to C1** – language, pace and task difficulty adapt to the selected level.
+- **Teacher mode** – have a structured one-to-one lesson with short explanations, examples, practice tasks and corrections. Explanations can use your selected support language when helpful.
+- **Real-life role-play** – practise situations such as appointments, work, shopping, housing, travel and everyday conversations.
+- **Focused grammar practice** – train one grammar point at a time with short spoken exercises.
+- **Oral exam practice** – simulate selected Goethe-Zertifikat, DTZ and telc speaking formats and request an AI-generated practice assessment afterwards. These are unofficial practice simulations, not official exams or certificates.
+- **Dictionary** – look up German words with forms, grammar information and level-appropriate examples.
+- **Writing practice** – generate and review writing exercises with AI feedback.
+- **Scan & explain** – photograph or choose a German exercise or text and receive an explanation.
+- **Conversation history and feedback** – revisit saved conversations and request targeted grammar/vocabulary feedback.
+- **In-app feedback** – send suggestions, feature requests or bug reports and follow replies inside the app.
 
-Instant Grammar Corrections: Make mistakes without fear. Receive immediate, friendly breakdowns of grammatical errors and pronunciation tips in your preferred explanation language.
+## AI access
 
-Comprehensive Session Reports: Get a pedagogical summary after every chat, highlighting your fluency score, newly discovered vocabulary, and targeted areas for improvement.
+SprachCoach supports two ways to use AI:
 
-🔒 Privacy-First & Free Forever (BYOK Model)
-SprachCoach is a 100% serverless client application built with strict data privacy in mind:
+### Included AI access
 
-Bring Your Own Key (BYOK): Get your free Gemini API Key from Google AI Studio in less than a minute and plug it directly into the app.
+The app can provide a limited daily AI allowance through **Firebase AI Logic / Google Gemini**. No Gemini API key is required for this mode.
 
-Zero Subscription Fees: Enjoy unlimited, unrestricted AI coaching without hidden costs.
+### Bring Your Own Key (optional)
 
-Local Security: Your API key and conversation history are encrypted and stored entirely on your device using native local secure storage. No data ever touches third-party remote servers.
+You can optionally save your own Gemini API key and use your own Gemini quota instead. The key is stored in the iOS Keychain and is not sent to SprachCoach's server.
 
-Stop studying language rules. Start living them. Download SprachCoach and start speaking German today!
+There is no email/password sign-up required.
+
+## Privacy
+
+SprachCoach asks for explicit data-sharing consent before AI content or usage analytics is sent off the device.
+
+In short:
+
+- AI content needed for the feature you request can be processed by **Google's Gemini service**.
+- SprachCoach's own server receives **pseudonymous usage/quota metadata** and feedback/support messages you explicitly submit, but not your microphone audio, photos, AI prompts, conversation transcripts or model responses.
+- Your own Gemini API key, if you add one, is stored in the device Keychain.
+- Optional push notifications are only enabled after you choose to enable them.
+- SprachCoach does not use your data for advertising or cross-app tracking.
+
+For the complete details, see the [Privacy Policy](./PRIVACY_POLICY.md).
+
+## Third-party exam names
+
+SprachCoach is not affiliated with, endorsed by, or connected to the Goethe-Institut, telc gGmbH, g.a.s.t./TestDaF or the BAMF. Exam names and trademarks belong to their respective owners.
+
+---
+
+Questions or privacy requests: **ahmetcemaleddin@gmail.com**
