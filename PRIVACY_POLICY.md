@@ -5,7 +5,7 @@
 
 ## 1. Who operates SprachCoach
 
-SprachCoach is an independent German-learning application. For questions about this policy or requests concerning your personal data, contact the developer at **ahmetcemaleddin@gmail.com**.
+SprachCoach is an independent German-learning application. For questions about this policy or requests concerning your personal data, contact the developer at **sekercideveloper@gmail.com**.
 
 This policy explains which information is kept on your device, which information is sent to the developer-operated SprachCoach server, which information is processed by external providers, and the controls available to you.
 
@@ -123,7 +123,7 @@ For a verified account, Account settings may offer access to account or server e
 
 A full-erasure or export-assistance submission is a **request for review**, **not confirmation that deletion or export has occurred**. You may be able to check its status or cancel an eligible pending request. Verified deletion across affected systems is not an immediate self-service action; no data should be treated as deleted until the developer has confirmed the necessary processing.
 
-You can contact **ahmetcemaleddin@gmail.com** to ask about information held about you or to exercise applicable privacy rights. Depending on the laws that apply, those rights may include access, rectification, erasure, restriction, data portability, objection and withdrawal of consent. You may also have the right to complain to a competent data-protection authority. Identity verification may be needed before disclosing or changing account-associated records.
+You can contact **sekercideveloper@gmail.com** to ask about information held about you or to exercise applicable privacy rights. Depending on the laws that apply, those rights may include access, rectification, erasure, restriction, data portability, objection and withdrawal of consent. You may also have the right to complain to a competent data-protection authority. Identity verification may be needed before disclosing or changing account-associated records.
 
 ## 12. Why information is processed
 
@@ -148,4 +148,4 @@ We may update this policy when features, service providers or data practices cha
 ## 16. Contact
 
 **SprachCoach — Privacy and data requests**  
-**Email:** ahmetcemaleddin@gmail.com
+**Email:** sekercideveloper@gmail.com
